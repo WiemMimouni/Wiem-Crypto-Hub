@@ -457,7 +457,7 @@ If OAuth (Google/GitHub) pop-ups open and close immediately:
 1. **Add your domain to Firebase**:
 
    - Go to Firebase Console → Authentication → Settings → Authorized domains
-   - Add your production domain (e.g., `crypto-platform.reactbd.com`)
+   - Add your production domain (e.g., ``)
 
 2. **Update OAuth provider settings**:
 
