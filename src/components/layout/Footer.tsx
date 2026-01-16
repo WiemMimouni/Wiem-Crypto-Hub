@@ -51,14 +51,14 @@ export const Footer: React.FC = () => {
   ];
 
   const socialLinks = [
-    { icon: Twitter, href: "https://twitter.com/cryptohub", label: "Twitter" },
-    { icon: Github, href: "https://github.com/cryptohub", label: "GitHub" },
+    { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
+    { icon: Github, href: "https://github.com", label: "GitHub" },
     {
       icon: Linkedin,
-      href: "https://linkedin.com/company/cryptohub",
+      href: "https://linkedin.com",
       label: "LinkedIn",
     },
-    { icon: Mail, href: "mailto:contact@cryptohub.com", label: "Email" },
+    { icon: Mail, href: "", label: "Email" },
   ];
 
   return (
